@@ -16,4 +16,4 @@ Importa query de server SQL Oracle para Dataframe
   
 # Conexão com banco de dados MYSQL
 
-👉 🚧 sql_MYSQL.py 🔜🕙
+👉 🚧 sql_MySQL.py 🔜🕙
