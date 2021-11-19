@@ -2,7 +2,7 @@
 
 # Conexão com banco de dados SQL Oracle
 
-👉 [SQL_Oracle.py](https://github.com/MarceloCapeletti/pandas_conects_sqls/blob/main/SQL_Oracle.py")
+👉 [SQL_Oracle.py](https://github.com/MarceloCapeletti/pandas_conects_sqls/blob/main/SQL_Oracle.py)
 
 Importa query de server SQL Oracle para Dataframe
 
